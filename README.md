@@ -10,5 +10,11 @@ This online workshop has the following objectives:
 
 TO BE ANNOUNCED
 
+## Organizers
+  - Mario Linares-Vásquez (Universidad de los Andes, Colombia)
+  - Gustavo Pinto (Universidade Federal de Pará, Brazil)
+  - Gerson Sunyé (Université de Nantes, France)
+  - Alexandre Bergel (Universidad de Chile, Chile)
+
 ## Call for presentation
 We are currently open for receiving description of presentation. Simply send an email to [Alexandre Bergel](mailto:alexandre.bergel@me.com) with a title, name of the presenter, and a short abstract (optional). Please send your proposal before Friday 22 January 2021.
